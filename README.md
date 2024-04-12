@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I'm a freshman student located in Chicago Illinois.**
+**I'm a freshman student located in Chicago, Illinois.**
 
 ### Some projects i'm currently interested in:  
 
