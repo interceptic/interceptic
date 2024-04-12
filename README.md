@@ -1,8 +1,13 @@
 ### Hi there 👋
 
+
+** I am a freshman student located in Chicago Illinois.**
+** Some projects i'm currently interested in:
+    [Mineflayer](https://github.com/PrismarineJS/mineflayer/)
+    [Bootstrap](https://github.com/twbs/bootstrap)
+    **
 <!--
 **interceptic/interceptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=interceptic&theme=blue-navy&border_radius=22)](https://git.io/streak-stats)
