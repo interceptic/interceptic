@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-** I am a freshman student located in Chicago Illinois.**
-** Some projects i'm currently interested in:
-    [Mineflayer](https://github.com/PrismarineJS/mineflayer/)
-    [Bootstrap](https://github.com/twbs/bootstrap)
-    **
+**I am a freshman student located in Chicago Illinois.**
+**Some projects i'm currently interested in:**
+    - **[Mineflayer](https://github.com/PrismarineJS/mineflayer/)**
+    - **[Bootstrap](https://github.com/twbs/bootstrap)**
 <!--
 **interceptic/interceptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
