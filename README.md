@@ -2,7 +2,8 @@
 
 
 **I am a freshman student located in Chicago Illinois.**
-**Some projects i'm currently interested in:**
+##Some projects i'm currently interested in:**  
+
 
 - **[Mineflayer](https://github.com/PrismarineJS/mineflayer/)**
  
