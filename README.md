@@ -4,7 +4,7 @@
 ### Hello! Nice to meet you, I'm Sam. 👋
 
 
-**I'm a soon to be sophomore student located in Chicago, Illinois.**
+**I'm a sophomore student located in Chicago, Illinois.**
 
 **I'm currently interested in image parsing and automation of day to day academic tasks.**
 
