@@ -9,7 +9,6 @@
 **I'm currently interested in image parsing and automation of day to day academic tasks.**
 
    
-![GitHub Streak](https://streak-stats.demolab.com?user=interceptic&theme=blue-navy&border_radius=22)
 </div>
 <h1 align='center'>Languages</h1>
 <div align="center">
