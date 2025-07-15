@@ -1,12 +1,12 @@
 
 <div align="center">
 
-### Hello! Nice to meet you, I'm Sam. 👋
+### Hello! I'm Sam. 👋
 
 
-**I'm a sophomore student located in Chicago, Illinois.**
+**I'm a highschool junior located in Chicago, Illinois.**
 
-**I'm currently interested in image parsing and automation of day to day academic tasks.**
+**I'm currently interested in machine learning, visual analysis, and automation of day to day academic tasks.**
 
    
 </div>
